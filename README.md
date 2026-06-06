@@ -1,3 +1,4 @@
+DOWNLOAD HERE: unicorn.browser.cyclopsarchitects.com
 🦄 Unicorn Browser
 Experience the Web, Reimagined.
 Unicorn is a fast, friendly, and beautifully minimal web browser built on Chromium. It strips away the noise and brings intelligent features — like Dock Intelligence and Smart Tab Groups — that make browsing feel effortless.
@@ -36,5 +37,6 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 👤 Publisher & Owner
 Elemure Samuel
 © 2026 Unicorn Browser. Crafted with ❤️.
+Download from the website.
 Website: unicorn.browser.cyclopsarchitects.com
 "Fast, friendly, and smart — Unicorn Browser brings you a beautifully minimal interface with dock intelligence and powerful tab management."
